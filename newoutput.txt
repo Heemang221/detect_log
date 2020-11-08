@@ -1,0 +1,232 @@
+[2020-11-02 12:24:47,485] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1337.0>1344.0_buy2sell
+[2020-11-02 12:31:26,349] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1339.0>1345.0_buy2sell
+[2020-11-02 12:48:15,871] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1330.0>1335.0_buy2sell
+[2020-11-02 13:34:18,919] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1341.0>1347.0_buy2sell
+[2020-11-02 13:38:24,613] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1349.0>1353.0_buy2sell
+[2020-11-02 13:47:18,006] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1349.0>1353.0_buy2sell
+[2020-11-02 14:52:27,252] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1297.0>1300.0_buy2sell
+[2020-11-02 15:25:39,201] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1262.0>1271.0_buy2sell
+[2020-11-02 15:45:18,803] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1279.0>1283.0_buy2sell
+[2020-11-02 16:09:21,730] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1281.0>1283.0_buy2sell
+[2020-11-02 16:24:03,017] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1283.0>1284.0_buy2sell
+[2020-11-02 16:26:12,647] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1283.0>1285.0_buy2sell
+[2020-11-02 16:27:01,040] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1275.0>1284.0_buy2sell
+[2020-11-02 16:35:01,059] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1283.0>1284.0_buy2sell
+[2020-11-02 16:48:09,428] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1279.0>1287.0_buy2sell
+[2020-11-02 16:50:08,855] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1281.0>1286.0_buy2sell
+[2020-11-02 16:54:05,943] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1288.0>1293.0_buy2sell
+[2020-11-02 17:20:11,140] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1321.0>1325.0_buy2sell
+[2020-11-02 17:27:03,314] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1321.0>1324.0_buy2sell
+[2020-11-02 17:27:22,184] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1324.0>1326.0_buy2sell
+[2020-11-02 17:30:05,927] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1323.0>1325.0_buy2sell
+[2020-11-02 17:40:28,858] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1321.0>1327.0_buy2sell
+[2020-11-02 17:52:09,003] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1319.0>1320.0_buy2sell
+[2020-11-02 18:05:03,055] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1307.0>1308.0_buy2sell
+[2020-11-02 18:09:19,937] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1306.0>1307.0_buy2sell
+[2020-11-02 18:59:55,753] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1311.0>1312.0_buy2sell
+[2020-11-02 19:13:51,076] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1303.0>1306.0_buy2sell
+
+ File : logfile.txt 
+ Frequency : 27 
+[2020-11-02 12:20:00,446] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1337.0>1343.0_buy2sell
+[2020-11-02 12:20:08,179] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1342.0>1343.0_buy2sell
+[2020-11-02 12:21:11,594] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1345.0>1346.0_buy2sell
+[2020-11-02 12:40:05,820] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1338.0>1342.0_buy2sell
+[2020-11-02 12:49:10,475] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1325.0>1337.0_buy2sell
+[2020-11-02 13:17:17,577] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1357.0>1361.0_buy2sell
+[2020-11-02 13:32:15,651] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1341.0>1343.0_buy2sell
+[2020-11-02 13:35:02,315] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1338.0>1351.0_buy2sell
+[2020-11-02 13:45:43,312] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1336.0>1342.0_buy2sell
+[2020-11-02 13:53:37,137] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1343.0>1345.0_buy2sell
+[2020-11-02 14:07:59,981] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1332.0>1337.0_buy2sell
+[2020-11-02 14:32:42,030] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1308.0>1324.0_buy2sell
+[2020-11-02 14:42:21,956] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1317.0>1318.0_buy2sell
+[2020-11-02 15:27:32,988] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1268.0>1271.0_buy2sell
+[2020-11-02 15:32:27,353] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1275.0>1278.0_buy2sell
+[2020-11-02 16:10:11,004] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1285.0>1287.0_buy2sell
+[2020-11-02 16:12:06,191] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1284.0>1287.0_buy2sell
+[2020-11-02 16:26:01,299] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1277.0>1282.0_buy2sell
+[2020-11-02 16:26:28,251] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1282.0>1283.0_buy2sell
+[2020-11-02 16:35:16,381] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1277.0>1279.0_buy2sell
+[2020-11-02 16:40:03,140] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1297.0>1298.0_buy2sell
+[2020-11-02 16:47:03,637] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1283.0>1291.0_buy2sell
+[2020-11-02 16:49:10,643] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1290.0>1291.0_buy2sell
+[2020-11-02 16:57:19,054] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1292.0>1293.0_buy2sell
+[2020-11-02 17:21:16,827] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1324.0>1326.0_buy2sell
+[2020-11-02 17:21:19,511] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1324.0>1325.0_buy2sell
+[2020-11-02 17:31:13,524] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1323.0>1324.0_buy2sell
+[2020-11-02 17:50:16,394] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1321.0>1322.0_buy2sell
+[2020-11-02 18:39:08,715] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1311.0>1312.0_buy2sell
+[2020-11-02 19:14:46,588] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1297.0>1303.0_buy2sell
+[2020-11-02 19:16:07,135] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1297.0>1301.0_buy2sell
+
+ File : logfile1.txt 
+ Frequency : 31 
+
+ File : logfile10.txt 
+ Frequency : 0 
+[2020-11-02 03:11:08,319] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1352.0>1353.0_buy2sell
+[2020-11-02 03:48:44,266] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1316.0>1317.0_buy2sell
+[2020-11-02 03:51:12,219] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1318.0>1319.0_buy2sell
+[2020-11-02 03:51:39,248] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1316.0>1317.0_buy2sell
+[2020-11-02 03:57:33,041] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1316.0>1318.0_buy2sell
+[2020-11-02 03:58:32,310] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1318.0>1319.0_buy2sell
+[2020-11-02 04:03:34,765] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1332.0>1333.0_buy2sell
+[2020-11-02 04:06:31,155] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1329.0>1330.0_buy2sell
+[2020-11-02 04:13:20,342] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1325.0>1326.0_buy2sell
+[2020-11-02 04:15:09,043] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1317.0>1325.0_buy2sell
+[2020-11-02 04:19:37,427] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1320.0>1323.0_buy2sell
+[2020-11-02 04:28:01,305] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1321.0>1322.0_buy2sell
+[2020-11-02 04:31:31,633] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1322.0>1323.0_buy2sell
+[2020-11-02 04:44:15,572] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1320.0>1334.0_buy2sell
+[2020-11-02 04:44:29,035] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1335.0>1337.0_buy2sell
+[2020-11-02 04:44:57,709] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1336.0>1337.0_buy2sell
+[2020-11-02 04:46:12,614] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1341.0>1349.0_buy2sell
+[2020-11-02 04:46:52,703] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1357.0>1365.0_buy2sell
+[2020-11-02 04:47:18,067] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1366.0>1370.0_buy2sell
+[2020-11-02 04:50:08,209] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1373.0>1379.0_buy2sell
+[2020-11-02 05:30:38,725] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1313.0>1314.0_buy2sell
+[2020-11-02 05:48:43,048] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1323.0>1324.0_buy2sell
+[2020-11-02 06:01:30,424] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1337.0>1338.0_buy2sell
+[2020-11-02 06:02:17,065] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1321.0>1324.0_buy2sell
+[2020-11-02 06:07:31,290] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1327.0>1328.0_buy2sell
+[2020-11-02 06:11:02,266] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1322.0>1326.0_buy2sell
+[2020-11-02 06:16:32,987] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1326.0>1328.0_buy2sell
+[2020-11-02 06:17:30,981] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1324.0>1327.0_buy2sell
+[2020-11-02 06:21:19,846] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1322.0>1325.0_buy2sell
+[2020-11-02 06:25:06,731] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1323.0>1325.0_buy2sell
+[2020-11-02 06:35:20,629] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1325.0>1328.0_buy2sell
+[2020-11-02 06:37:34,936] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1322.0>1327.0_buy2sell
+[2020-11-02 06:40:18,672] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1322.0>1323.0_buy2sell
+[2020-11-02 06:58:16,768] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1316.0>1318.0_buy2sell
+[2020-11-02 07:14:43,384] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1320.0>1323.0_buy2sell
+[2020-11-02 07:15:12,904] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1319.0>1320.0_buy2sell
+[2020-11-02 07:18:05,876] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1322.0>1325.0_buy2sell
+[2020-11-02 07:25:38,967] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1327.0>1331.0_buy2sell
+[2020-11-02 07:28:35,882] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1328.0>1329.0_buy2sell
+[2020-11-02 07:32:21,479] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1331.0>1332.0_buy2sell
+[2020-11-02 07:52:19,176] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1332.0>1333.0_buy2sell
+[2020-11-02 08:55:14,324] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1360.0>1361.0_buy2sell
+[2020-11-02 09:17:10,824] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1358.0>1362.0_buy2sell
+[2020-11-02 09:34:11,401] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1363.0>1371.0_buy2sell
+[2020-11-02 09:45:21,761] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1365.0>1367.0_buy2sell
+[2020-11-02 09:47:00,673] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1363.0>1367.0_buy2sell
+[2020-11-02 09:53:01,172] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1365.0>1368.0_buy2sell
+[2020-11-02 09:53:13,837] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1362.0>1371.0_buy2sell
+[2020-11-02 09:53:23,989] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1359.0>1367.0_buy2sell
+[2020-11-02 10:18:44,809] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1350.0>1351.0_buy2sell
+[2020-11-02 10:23:00,664] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1346.0>1350.0_buy2sell
+[2020-11-02 11:21:05,930] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1365.0>1369.0_buy2sell
+[2020-11-02 11:41:11,520] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1366.0>1370.0_buy2sell
+[2020-11-02 12:18:01,300] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1337.0>1347.0_buy2sell
+[2020-11-02 12:19:17,790] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1340.0>1342.0_buy2sell
+[2020-11-02 12:21:00,886] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1335.0>1341.0_buy2sell
+[2020-11-02 12:21:20,823] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1337.0>1338.0_buy2sell
+
+ File : logfile2.txt 
+ Frequency : 57 
+[2020-11-02 02:46:02,136] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1352.0>1353.0_buy2sell
+[2020-11-02 03:16:17,955] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1352.0>1353.0_buy2sell
+[2020-11-02 03:54:43,847] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1316.0>1317.0_buy2sell
+[2020-11-02 03:58:16,570] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1316.0>1318.0_buy2sell
+[2020-11-02 03:59:49,457] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1327.0>1328.0_buy2sell
+[2020-11-02 04:01:43,205] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1328.0>1329.0_buy2sell
+[2020-11-02 04:04:11,083] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1332.0>1333.0_buy2sell
+[2020-11-02 04:04:15,891] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1326.0>1328.0_buy2sell
+[2020-11-02 04:06:43,743] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1329.0>1333.0_buy2sell
+[2020-11-02 04:17:06,711] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1323.0>1324.0_buy2sell
+[2020-11-02 04:20:32,221] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1319.0>1321.0_buy2sell
+[2020-11-02 04:22:43,990] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1317.0>1319.0_buy2sell
+[2020-11-02 04:30:26,734] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1316.0>1323.0_buy2sell
+[2020-11-02 04:43:08,638] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1319.0>1320.0_buy2sell
+[2020-11-02 04:44:07,466] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1325.0>1332.0_buy2sell
+[2020-11-02 04:45:13,009] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1335.0>1340.0_buy2sell
+[2020-11-02 04:50:36,405] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1378.0>1380.0_buy2sell
+[2020-11-02 04:52:28,433] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1359.0>1362.0_buy2sell
+[2020-11-02 04:54:16,091] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1296.0>1298.0_buy2sell
+[2020-11-02 04:55:44,451] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1293.0>1297.0_buy2sell
+[2020-11-02 04:57:02,954] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1274.0>1288.0_buy2sell
+[2020-11-02 05:20:31,609] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1298.0>1301.0_buy2sell
+[2020-11-02 05:23:24,081] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1313.0>1317.0_buy2sell
+[2020-11-02 05:29:02,656] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1315.0>1316.0_buy2sell
+[2020-11-02 05:29:15,289] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1313.0>1317.0_buy2sell
+[2020-11-02 05:31:13,750] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1314.0>1318.0_buy2sell
+[2020-11-02 05:31:26,116] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1317.0>1318.0_buy2sell
+[2020-11-02 05:35:49,979] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1318.0>1319.0_buy2sell
+[2020-11-02 05:48:37,337] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1322.0>1323.0_buy2sell
+[2020-11-02 06:03:10,359] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1326.0>1327.0_buy2sell
+[2020-11-02 06:04:10,337] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1327.0>1328.0_buy2sell
+[2020-11-02 06:08:30,459] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1323.0>1328.0_buy2sell
+[2020-11-02 06:14:09,802] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1325.0>1328.0_buy2sell
+[2020-11-02 06:15:34,839] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1324.0>1327.0_buy2sell
+[2020-11-02 06:25:22,665] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1322.0>1327.0_buy2sell
+[2020-11-02 06:34:09,710] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1322.0>1327.0_buy2sell
+[2020-11-02 06:35:11,961] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1322.0>1324.0_buy2sell
+[2020-11-02 06:47:59,232] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1323.0>1325.0_buy2sell
+[2020-11-02 06:50:29,036] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1311.0>1315.0_buy2sell
+[2020-11-02 06:51:05,277] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1316.0>1318.0_buy2sell
+[2020-11-02 06:54:20,096] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1316.0>1317.0_buy2sell
+[2020-11-02 06:56:04,890] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1316.0>1318.0_buy2sell
+[2020-11-02 07:02:07,649] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1309.0>1310.0_buy2sell
+[2020-11-02 07:14:09,946] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1319.0>1323.0_buy2sell
+[2020-11-02 07:16:38,952] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1319.0>1323.0_buy2sell
+[2020-11-02 07:16:52,449] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1321.0>1323.0_buy2sell
+[2020-11-02 07:20:19,180] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1317.0>1318.0_buy2sell
+[2020-11-02 07:25:59,407] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1334.0>1335.0_buy2sell
+[2020-11-02 07:32:29,331] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1331.0>1333.0_buy2sell
+[2020-11-02 08:09:36,208] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1315.0>1324.0_buy2sell
+[2020-11-02 08:18:27,200] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1396.0>1397.0_buy2sell
+[2020-11-02 08:52:18,601] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1360.0>1367.0_buy2sell
+[2020-11-02 09:09:24,884] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1363.0>1367.0_buy2sell
+[2020-11-02 09:51:13,512] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1364.0>1374.0_buy2sell
+[2020-11-02 09:54:06,081] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1372.0>1375.0_buy2sell
+[2020-11-02 10:21:03,999] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1348.0>1349.0_buy2sell
+[2020-11-02 10:22:06,660] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1346.0>1352.0_buy2sell
+
+ File : logfile3.txt 
+ Frequency : 57 
+[2020-11-01 15:46:44,385] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1971.0>1977.0_buy2sell
+[2020-11-01 16:12:35,220] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1964.0>1965.0_buy2sell
+[2020-11-01 16:12:51,072] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1962.0>1963.0_buy2sell
+[2020-11-01 16:13:16,969] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1963.0>1964.0_buy2sell
+[2020-11-01 16:13:33,732] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1964.0>1965.0_buy2sell
+[2020-11-01 16:13:43,011] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1963.0>1964.0_buy2sell
+[2020-11-01 16:14:44,708] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1964.0>1965.0_buy2sell
+[2020-11-01 17:45:03,025] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1478.0>1479.0_buy2sell
+[2020-11-01 17:50:12,318] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1492.0>1565.0_buy2sell
+[2020-11-01 18:34:12,203] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1241.0>1242.0_buy2sell
+[2020-11-01 18:34:26,487] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1207.0>1208.0_buy2sell
+[2020-11-01 18:35:04,822] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1206.0>1207.0_buy2sell
+[2020-11-01 18:37:02,205] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1216.0>1217.0_buy2sell
+[2020-11-01 21:11:23,126] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1268.0>1269.0_buy2sell
+[2020-11-01 21:12:02,918] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1268.0>1269.0_buy2sell
+[2020-11-01 22:20:00,460] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1288.0>1289.0_buy2sell
+[2020-11-01 22:22:10,721] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1288.0>1289.0_buy2sell
+[2020-11-01 22:26:49,729] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1293.0>1295.0_buy2sell
+[2020-11-01 23:10:19,218] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1308.0>1309.0_buy2sell
+[2020-11-02 02:00:25,739] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1382.0>1386.0_buy2sell
+[2020-11-02 02:09:15,127] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1367.0>1368.0_buy2sell
+[2020-11-02 02:21:34,506] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1367.0>1368.0_buy2sell
+
+ File : logfile4.txt 
+ Frequency : 22 
+[2020-11-01 08:03:22,549] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_2003.0>2004.0_buy2sell
+[2020-11-01 11:02:53,539] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_2014.0>2018.0_buy2sell
+
+ File : logfile5.txt 
+ Frequency : 2 
+
+ File : logfile6.txt 
+ Frequency : 0 
+
+ File : logfile7.txt 
+ Frequency : 0 
+[2020-10-31 08:21:16,620] DEBUG [sitetrading.views:566] !!! Found Hacker foblgate_23_BIO/KRW_1749.0>1750.0_buy2sell
+
+ File : logfile8.txt 
+ Frequency : 1 
+
+ File : logfile9.txt 
+ Frequency : 0 
+
+Total Frequency : 197
